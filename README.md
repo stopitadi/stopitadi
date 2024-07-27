@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @stopitadi
+- -I'm third year undergraduate at IITK
 - 👀 I’m interested in learning dsa and tech stuff
 - 🌱 I’m currently learning electrical engineering and some dsa stuff
 - 💞️ I’m looking to collaborate on projects realting to machine learning and dsa
